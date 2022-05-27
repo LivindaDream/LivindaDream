@@ -4,8 +4,6 @@ U R my ![Visitor Count](https://profile-counter.glitch.me/LivindaDream/count.svg
 
 ### About My Github
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LivindaDream)](https://github.com/LivindaDream/github-readme-stats)
-
 ![Livin's GitHub stats](https://github-readme-stats.vercel.app/api?username=LivindaDream&show_icons=true&theme=tokyonight)
 
 
