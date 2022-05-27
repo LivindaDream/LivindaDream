@@ -1,4 +1,13 @@
 ### Hi there 👋
+U R my ![Visitor Count](https://profile-counter.glitch.me/LivindaDream/count.svg)th visitor!
+
+
+### About My Github
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LivindaDream)](https://github.com/LivindaDream/github-readme-stats)
+
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LivindaDream&show_icons=true&theme=tokyonight)
+
 
 <!--
 **LivindaDream/LivindaDream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
